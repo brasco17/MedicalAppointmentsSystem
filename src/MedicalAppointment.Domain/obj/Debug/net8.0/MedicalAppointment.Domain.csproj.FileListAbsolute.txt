@@ -21,3 +21,4 @@
 /Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment.Domain/obj/Debug/net8.0/MedicalAppointment.Domain.pdb
 /Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment.Domain/obj/Debug/net8.0/ref/MedicalAppointment.Domain.dll
 /Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment.Domain/obj/Debug/net8.0/MedicalAppointment.Domain.csproj.AssemblyReference.cache
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment.Domain/obj/Debug/net8.0/MedicalAppointment.Domain.sourcelink.json
