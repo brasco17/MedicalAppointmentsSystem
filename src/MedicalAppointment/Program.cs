@@ -55,8 +55,17 @@
 using MedicalAppointment.Data.DbContexts;
 using MedicalAppointment.Data.IRepositories;
 using MedicalAppointment.Data.Repositories;
+using MedicalAppointment.Domain.Entities;
+using MedicalAppointment.Service.AppointmentService;
+using MedicalAppointment.Service.Interfaces.IAppointmentService;
+using MedicalAppointment.Service.Interfaces.IDoctorService;
+using MedicalAppointment.Service.Interfaces.IPatientService;
+using MedicalAppointment.Service.Interfaces.IPrescriptionService;
 using MedicalAppointment.Service.Interfaces.IUserService;
 using MedicalAppointment.Service.Mappers;
+using MedicalAppointment.Service.Services;
+using MedicalAppointment.Service.Services.DoctorService;
+using MedicalAppointment.Service.Services.PatientService;
 using MedicalAppointment.Service.Services.UserService;
 using Microsoft.EntityFrameworkCore;
 
@@ -101,9 +110,13 @@ public class Program
             options.UseNpgsql(builder.Configuration.GetConnectionString("Npgsql")));
         
         builder.Services.AddAutoMapper(typeof(MappingProfile));
-//  IUserService ni DI konteynerga qo‘shish
         builder.Services.AddScoped<IUserService, UserService>();
+        builder.Services.AddScoped<IDoctorService, DoctorService>();
+        builder.Services.AddScoped<IPatientService, PatientService>();
+        builder.Services.AddScoped<IPrescriptionService, PrescriptionService>();
+        builder.Services.AddScoped<IAppointmentService, AppointmentService>();
         builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+        
         builder.Services.AddControllers();
         builder.Services.AddEndpointsApiExplorer();
         builder.Services.AddSwaggerGen();

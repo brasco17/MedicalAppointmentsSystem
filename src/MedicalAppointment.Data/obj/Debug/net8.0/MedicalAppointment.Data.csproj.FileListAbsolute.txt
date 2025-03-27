@@ -28,3 +28,4 @@
 /Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment.Data/obj/Debug/net8.0/refint/MedicalAppointment.Data.dll
 /Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment.Data/obj/Debug/net8.0/MedicalAppointment.Data.pdb
 /Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment.Data/obj/Debug/net8.0/ref/MedicalAppointment.Data.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment.Data/obj/Debug/net8.0/MedicalAppointment.Data.sourcelink.json

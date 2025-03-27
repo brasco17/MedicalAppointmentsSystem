@@ -170,3 +170,4 @@
 /Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/ref/MedicalAppointment.Api.dll
 /Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Castle.Core.dll
 /Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/MedicalAppointment.Api.sourcelink.json

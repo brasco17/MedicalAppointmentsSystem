@@ -1,6 +1,7 @@
 using AutoMapper;
 using MedicalAppointment.Data.IRepositories;
 using MedicalAppointment.Domain.Entities;
+using MedicalAppointment.Domain.Enums;
 using MedicalAppointment.Service.DTOs.User;
 using MedicalAppointment.Service.Interfaces.IUserService;
 using Microsoft.EntityFrameworkCore;
@@ -25,6 +26,7 @@ public class UserService : IUserService
             ?? throw new Exception("User already exists");
         
         var user = _mapper.Map<User>(dto);
+        user.Role = UserRole.Patient;
         user.CreatedOn = DateTime.UtcNow;
         
         var createdUser = await _userRepository.InsertAsync(user);
