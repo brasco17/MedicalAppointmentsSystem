@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "RyyPNlaGdBk=",
+  "success": true,
+  "projectFilePath": "/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment.Domain/MedicalAppointment.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbookair/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.entityframeworkcore/9.0.2/microsoft.entityframeworkcore.9.0.2.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.2/microsoft.entityframeworkcore.abstractions.9.0.2.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.2/microsoft.entityframeworkcore.analyzers.9.0.2.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.entityframeworkcore.proxies/9.0.2/microsoft.entityframeworkcore.proxies.9.0.2.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.2/microsoft.extensions.caching.abstractions.9.0.2.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.extensions.caching.memory/9.0.2/microsoft.extensions.caching.memory.9.0.2.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.2/microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.extensions.logging/9.0.2/microsoft.extensions.logging.9.0.2.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.2/microsoft.extensions.logging.abstractions.9.0.2.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.extensions.options/9.0.2/microsoft.extensions.options.9.0.2.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.extensions.primitives/9.0.2/microsoft.extensions.primitives.9.0.2.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/system.diagnostics.diagnosticsource/9.0.2/system.diagnostics.diagnosticsource.9.0.2.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,172 @@
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /bin/Debug/net8.0/appsettings.Development.json
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /bin/Debug/net8.0/appsettings.json
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /bin/Debug/net8.0/MedicalAppointment.Api
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /bin/Debug/net8.0/MedicalAppointment.Api.deps.json
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /bin/Debug/net8.0/MedicalAppointment.Api.runtimeconfig.json
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /bin/Debug/net8.0/MedicalAppointment.Api.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /bin/Debug/net8.0/MedicalAppointment.Api.pdb
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/MedicalAppointment.Api.csproj.AssemblyReference.cache
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/MedicalAppointment.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/MedicalAppointment.Api.AssemblyInfoInputs.cache
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/MedicalAppointment.Api.AssemblyInfo.cs
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/MedicalAppointment.Api.csproj.CoreCompileInputs.cache
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/MedicalAppointment.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/MedicalAppointment.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/staticwebassets.build.json
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/staticwebassets.development.json
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/staticwebassets/msbuild.MedicalAppointment.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/staticwebassets/msbuild.build.MedicalAppointment.Api.props
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MedicalAppointment.Api.props
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MedicalAppointment.Api.props
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/staticwebassets.pack.json
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/scopedcss/bundle/MedicalAppointment.Api.styles.css
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/MedicalA.A6572A28.Up2Date
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/MedicalAppointment.Api.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/refint/MedicalAppointment.Api.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/MedicalAppointment.Api.pdb
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/MedicalAppointment.Api.genruntimeconfig.cache
+/Users/macbookair/RiderProjects/MedicalAppointment /MedicalAppointment /obj/Debug/net8.0/ref/MedicalAppointment.Api.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/appsettings.Development.json
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/appsettings.json
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/MedicalAppointment.Api
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/MedicalAppointment.Api.deps.json
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/MedicalAppointment.Api.runtimeconfig.json
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/MedicalAppointment.Api.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/MedicalAppointment.Api.pdb
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/AutoMapper.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Humanizer.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Npgsql.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/System.CodeDom.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/System.Text.Json.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/MedicalAppointment.Data.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/MedicalAppointment.Domain.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/MedicalAppointment.Service.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/MedicalAppointment.Data.pdb
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/MedicalAppointment.Service.pdb
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/MedicalAppointment.Domain.pdb
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/MedicalAppointment.Api.csproj.AssemblyReference.cache
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/MedicalAppointment.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/MedicalAppointment.Api.AssemblyInfoInputs.cache
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/MedicalAppointment.Api.AssemblyInfo.cs
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/MedicalAppointment.Api.csproj.CoreCompileInputs.cache
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/MedicalAppointment.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/MedicalAppointment.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/staticwebassets.build.json
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/staticwebassets.development.json
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/staticwebassets/msbuild.MedicalAppointment.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/staticwebassets/msbuild.build.MedicalAppointment.Api.props
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MedicalAppointment.Api.props
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MedicalAppointment.Api.props
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/scopedcss/bundle/MedicalAppointment.Api.styles.css
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/MedicalA.A6572A28.Up2Date
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/MedicalAppointment.Api.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/refint/MedicalAppointment.Api.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/MedicalAppointment.Api.pdb
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/MedicalAppointment.Api.genruntimeconfig.cache
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/obj/Debug/net8.0/ref/MedicalAppointment.Api.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Castle.Core.dll
+/Users/macbookair/RiderProjects/MedicalAppointment /src/MedicalAppointment/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Proxies.dll
