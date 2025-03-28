@@ -7,12 +7,12 @@ A **Medical Appointment Service** that allows patients to book medical consultat
 - ✅ **Patient Portal** – Book, reschedule, or cancel appointments
 - ✅ **Doctor Management** – View schedules and manage appointments
 - ✅ **Admin Dashboard** – Manage users, doctors, and appointments
-- ✅ **Automated Notifications** – SMS/Email reminders for upcoming appointments ##soon
+- ✅ **Automated Notifications** – SMS/Email reminders for upcoming appointments   -soon
 - ✅ **Secure Data Storage** – Patient information stored securely using PostgreSQL
 
 ## 🛠️ Tech Stack
 
-- **Backend:** ASP.NET Core
+c **Backend:** ASP.NET Core
 - **Database:** PostgreSQL / EF Core
 - **Authentication:** JWT Token
 - **Deployment:** Docker, Azure/AWS
